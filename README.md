@@ -1,2 +1,3 @@
-# Calculator.java
-# This is a very basic calculator programmed in java implementing some basic OOP principles
+# Roots.java
+# This is a java programm that calculates the roots of numbers
+
