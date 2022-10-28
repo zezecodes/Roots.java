@@ -1,3 +1,3 @@
 # Roots.java
-# This is a java programm that calculates the roots of numbers
+# This is a java program that calculates the roots of numbers
 
